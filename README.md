@@ -1,2 +1,2 @@
-# widsompets
+# Widsom Pets
 wisdompets linkedin excersice
